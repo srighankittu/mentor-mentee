@@ -1,0 +1,247 @@
+[
+  {
+    "value": "Computer Science",
+    "label": "Frontend Development",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Backend Development",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Full Stack Development",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "DevOps",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Data Science",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Machine Learning",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Artificial Intelligence",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Cybersecurity",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Blockchain Development",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Mobile Development",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Cloud Computing",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "UI/UX Design",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Game Development",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Database Development",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Networking",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Internet of Things (IoT)",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "AR/VR Development",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Quantum Computing",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Big Data",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Software Testing",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Web Development",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Hardware Engineering",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Robotics",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Embedded Systems",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Computer Science",
+    "label": "Systems Architecture",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Mechanical Engineering",
+    "label": "Manufacturing",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Mechanical Engineering",
+    "label": "Automotive Engineering",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Mechanical Engineering",
+    "label": "Thermodynamics",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Mechanical Engineering",
+    "label": "Fluid Mechanics",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Mechanical Engineering",
+    "label": "Robotics",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Electrical Engineering",
+    "label": "Power Systems",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Electrical Engineering",
+    "label": "Control Systems",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Electrical Engineering",
+    "label": "Signal Processing",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Electrical Engineering",
+    "label": "Embedded Systems",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Civil Engineering",
+    "label": "Structural Engineering",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Civil Engineering",
+    "label": "Geotechnical Engineering",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Civil Engineering",
+    "label": "Construction Management",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Civil Engineering",
+    "label": "Transportation Engineering",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Civil Engineering",
+    "label": "Environmental Engineering",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Biotechnology",
+    "label": "Genetic Engineering",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Biotechnology",
+    "label": "Bioinformatics",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Biotechnology",
+    "label": "Biomedical Engineering",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Biotechnology",
+    "label": "Pharmaceutical Biotechnology",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Biotechnology",
+    "label": "Industrial Biotechnology",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Chemical Engineering",
+    "label": "Process Engineering",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Chemical Engineering",
+    "label": "Materials Science",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Chemical Engineering",
+    "label": "Biochemical Engineering",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Chemical Engineering",
+    "label": "Polymer Engineering",
+    "category": "Specialisation"
+  },
+  {
+    "value": "Chemical Engineering",
+    "label": "Petrochemical Engineering",
+    "category": "Specialisation"
+  }
+]
